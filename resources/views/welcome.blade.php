@@ -117,7 +117,10 @@
                         </div>
                     </div>
                 </div>
-                                                <div>4i Lmaara dour yesla7 nchllhou</div>
+                
+                <div>4i Lmaara dour yesla7 nchllhou vi web sla7</div>
+                <div>4i Lmaara dour yesla7 we sla7 min desktop </div>
+                                                
                 <div class="flex justify-center mt-16 px-0 sm:items-center sm:justify-between">
                     <div class="text-center text-sm text-gray-500 dark:text-gray-400 sm:text-left">
                         <div class="flex items-center gap-4">
